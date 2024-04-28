@@ -1,3 +1,7 @@
+
+![image](https://github.com/a2rp/qrcode-generator-scanner/assets/5670738/0fdd9153-bbb9-4413-9dd3-6340723fc725)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
