@@ -1,17 +1,18 @@
 # QR Code Studio
 
-A responsive React utility for generating QR codes from text or URLs and scanning QR values from uploaded images.
+A responsive React utility for generating QR codes from text or URLs and scanning QR values from uploaded images. QR generation and image scanning happen locally in your browser; this app does not upload the entered text or selected image.
 
 ## Features
 
 - Generate and download QR code images.
 - Scan QR codes from local image files in the browser.
 - Copy scanned values with clear feedback.
+- Keep QR generation and image scanning on-device without sending their contents to a QR service.
 - Responsive layout with accessible controls.
 
 ## Tech stack
 
-React, Create React App, Material UI, Sass, React Icons, Axios, and QR Scanner.
+React, Create React App, Material UI, Sass, React Icons, `qrcode`, and `qr-scanner`.
 
 ## Run locally
 
